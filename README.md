@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Entering the world of tech with bag filled of humour <br>📚 I'm currently learning JAVA, C++ and Shell<br>🎯 Goals: Cyber Security Analuyst<br>🎲 Fun fact: I'm a fast learner!!</p>
+<p align="left">✨ Entering the world of tech with bag filled of humour <br>📚 I'm currently learning JAVA, C++ and Shell<br>🎯 Goals: Cyber Security Analyst</p><br>🎲 Fun fact: I'm a fast learner!!</p>
 
 ###
 
