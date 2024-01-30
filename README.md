@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Entering the world of tech with bag filled of humour <br>📚 I'm currently learning JAVA, C++ <br>🎯 Goals: Cyber Security Analuyst<br>🎲 Fun fact: I'm a fast learner!!</p>
+<p align="left">✨ Entering the world of tech with bag filled of humour <br>📚 I'm currently learning JAVA, C++ and Shell<br>🎯 Goals: Cyber Security Analuyst<br>🎲 Fun fact: I'm a fast learner!!</p>
 
 ###
 
@@ -21,10 +21,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" alt="cpp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
+
 
 </div>
 
